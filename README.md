@@ -13,10 +13,7 @@ The model is built with TensorFlow/Keras and uses image augmentation, validation
 chest-xray-pneumonia-detection/
 │
 ├── data/
-│   └── chest_xray/
-│       └── train/
-│           ├── NORMAL/
-│           └── PNEUMONIA/
+│   https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia 
 │
 ├── notebooks/
 │   └── pneumonia_detection_resnet50.ipynb
