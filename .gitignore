@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Output files
+outputs/models/*.h5
+outputs/plots/*.png
+
+# Dataset
+data/
+
+# OS files
+.DS_Store
+Thumbs.db
