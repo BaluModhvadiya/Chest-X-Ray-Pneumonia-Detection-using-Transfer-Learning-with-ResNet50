@@ -1,4 +1,3 @@
-```txt
 tensorflow
 numpy
 matplotlib
