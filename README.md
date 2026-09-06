@@ -1,4 +1,4 @@
-# Chest X-Ray Pneumonia Detection using Transfer Learning with ResNet50
+# Pneumonia Detection with ResNet50
 
 This project uses transfer learning with ResNet50 to classify chest X-ray images into two categories:
 
